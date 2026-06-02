@@ -44,3 +44,8 @@ style: configurar el layout y espaciado
 style: configurar letras capitales
 style: configurar responsive
 ```
+
+## Resultado final
+
+<img width="1280" height="1369" alt="image" src="https://github.com/user-attachments/assets/602650c9-1e4a-449e-8687-21be3016db4a" />
+
