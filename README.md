@@ -2,7 +2,7 @@
 
 A web page of the Little Red Riding Hood tale, built with HTML and CSS.
 
-🔗 **Live demo:** https://iulian640.github.io/red-ridding-hood/
+🔗 **Live demo:** https://iulian640.github.io/red-riding-hood/
 
 ## About the page
 
